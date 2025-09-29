@@ -14,9 +14,9 @@ Update
 - ปรับให้ support dynamic query มากขึ้น
 
 สามารถดาวน์โหลดโปรแกรม **เวอร์ชัน 1.0.3beta20250929.1 (Beta)** ได้ที่ลิงก์ด้านล่างนี้  
-👉 [ดาวน์โหลดที่นี่](https://github.com/wsjeeraphun/ssjncd-dmremission/releases/tag/0.01beta)
+👉 [ดาวน์โหลดที่นี่](https://github.com/wsjeeraphun/ssjncd-dmremission/releases/tag/v1.0.3-beta-build.20250929.1)
 
-### 📌 Version
+### Version
 ![version](https://img.shields.io/badge/version-1.0.2beta20250917-blue.svg)  
 **Release Date:** 17 กันยายน 2025  
 
