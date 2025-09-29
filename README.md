@@ -3,6 +3,18 @@
 
 ---
 ### 📌 Version ปัจจุบัน
+![version](https://img.shields.io/badge/version-1.0.3beta20250929.2-blue.svg)  
+**Release Date:** 29 กันยายน 2025  
+FixBug
+- แก้ไขข้อมูล ไม่ส่งสระภาษาไทย
+  
+Update
+- สามารถส่งข้อมูล Register จากหน้าส่งข้อมูลได้ (query register ต้องมีเงือนไขที่ระบุว่าคนไข้คนนี้เข้าโครงการ DM Remission เช่นมี lab ที่เกี่ยวข้องกับ DM Remission เป็นต้น)
+
+สามารถดาวน์โหลดโปรแกรม **เวอร์ชัน 1.0.3beta20250929.1 (Beta)** ได้ที่ลิงก์ด้านล่างนี้  
+👉 [ดาวน์โหลดที่นี่](https://github.com/wsjeeraphun/ssjncd-dmremission/releases/tag/v1.0.3-beta-build.20250929.2)
+
+### Version 
 ![version](https://img.shields.io/badge/version-1.0.3beta20250929.1-blue.svg)  
 **Release Date:** 29 กันยายน 2025  
 FixBug
